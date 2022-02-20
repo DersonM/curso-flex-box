@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.alinhamento-central {
+	height: 400px;
+	justify-content: center;
+	align-items: center;
+}
